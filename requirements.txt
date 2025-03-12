@@ -5,4 +5,3 @@ gtts>=2.3.0
 speechrecognition>=3.8.1
 pydub>=0.25.1
 requests>=2.26.0
-base64>=0.0.1
