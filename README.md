@@ -1,3 +1,9 @@
+---
+title: Ai_Doctor
+app_file: gradio_app.py
+sdk: gradio
+sdk_version: 5.32.0
+---
 # 🩺 AI Doctor with Voice and Vision
 
 An AI-powered healthcare assistant that analyzes medical images and voice inputs to provide preliminary insights. Built with Gradio, Groq, and gTTS.
