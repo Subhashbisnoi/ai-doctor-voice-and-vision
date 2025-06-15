@@ -25,7 +25,7 @@ An AI-powered healthcare assistant that analyzes medical images and voice inputs
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-doctor-voice-and-vision.git
+git clone https://github.com/Subhashbisnoi/ai-doctor-voice-and-vision.git
 cd ai-doctor-voice-and-vision
 ```
 ## Install dependencies:
